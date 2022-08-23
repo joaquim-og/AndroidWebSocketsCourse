@@ -11,6 +11,4 @@ fun main() {
         configureMonitoring()
         configureRouting()
     }.start(wait = true)
-
-    println("TEST")
 }
