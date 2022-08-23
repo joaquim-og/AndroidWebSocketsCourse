@@ -1,0 +1,1 @@
+rootProject.name = "com.androidWebSocketServerGameCourse.android-websocket-server"
